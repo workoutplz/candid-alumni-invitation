@@ -1,0 +1,25 @@
+* {
+    color: white;
+    align-self: flex-start;
+}
+
+#present {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #EC7D31;
+    text-transform: uppercase;
+    margin: 1rem 0;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+#invi {
+    margin: 20px;
+}
+
+.impact-text {
+    font-weight: 700;
+    font-size: 1rem;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}

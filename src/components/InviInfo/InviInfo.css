@@ -1,0 +1,25 @@
+* {
+    color: white;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+td {
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+
+.time {
+    width: 30%;
+}
+
+.activity {
+    width: 70%;
+}
+
+table {
+    width: 100%;
+}
