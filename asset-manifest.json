@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/candid-alumni-invitation/static/css/main.0dd609ed.css",
+    "main.js": "/candid-alumni-invitation/static/js/main.f646479f.js",
+    "static/js/453.b969b109.chunk.js": "/candid-alumni-invitation/static/js/453.b969b109.chunk.js",
+    "static/media/candid3.mp4": "/candid-alumni-invitation/static/media/candid3.20f94e04c513956290c7.mp4",
+    "index.html": "/candid-alumni-invitation/index.html",
+    "main.0dd609ed.css.map": "/candid-alumni-invitation/static/css/main.0dd609ed.css.map",
+    "main.f646479f.js.map": "/candid-alumni-invitation/static/js/main.f646479f.js.map",
+    "453.b969b109.chunk.js.map": "/candid-alumni-invitation/static/js/453.b969b109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd609ed.css",
+    "static/js/main.f646479f.js"
+  ]
+}
